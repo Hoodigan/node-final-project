@@ -1,3 +1,4 @@
+---
 title: "This is just a sample blog post"
 author: "John Doe"
 description: "A nice description of this post"
